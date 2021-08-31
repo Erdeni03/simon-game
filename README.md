@@ -1,4 +1,4 @@
-# simon-game https://erdeni03.github.io/simonGame/
+# [Demo DEPLOY](https://erdeni03.github.io/simon-game/)
 
 ## Project setup
 
