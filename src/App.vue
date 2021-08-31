@@ -228,8 +228,8 @@ body .disabled-field {
   width: 333px;
   height: 333px;
   position: absolute;
-  top: 23%;
-  left: 39%;
+  top: 13%;
+  left: 42%;
 }
 body .message {
   display: block;
